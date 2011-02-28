@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
-<plug-in>
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?><plug-in>
     <name>actes-fast</name>
     <class>fr.paris.lutece.portal.service.plugin.PluginDefaultImplementation</class>
-    <version>1.6</version>
+    <version>1.6.2</version>
     <description>module.actes.fast.module.description</description>
     <provider>module.actes.fast.module.provider</provider>
     <provider-url>http://lutece.paris.fr</provider-url>
@@ -10,7 +9,7 @@
     <copyright>Copyright (c) 2001-2010 Mairie de Paris</copyright>
 	<core-version-dependency>
 		<min-core-version>2.3.0</min-core-version>
-		<max-core-version></max-core-version>	
+		<max-core-version/>	
 	</core-version-dependency>
 	
 	<!-- if the plugin must have a connection pool with parameter : 1 - yes, 0 - no -->
