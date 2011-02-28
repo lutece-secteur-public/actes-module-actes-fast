@@ -10,7 +10,7 @@
     <groupId>fr.paris.lutece.plugins</groupId>
     <artifactId>module-actes-fast</artifactId>
     <packaging>lutece-plugin</packaging>
-    <version>1.6.2</version>
+    <version>1.6.3-SNAPSHOT</version>
     <name>Lutece actes FAST module</name>
     
     <repositories>
@@ -39,8 +39,8 @@
         <jiraComponentId>10090</jiraComponentId>
     </properties>
 	<scm>
-        <connection>scm:svn:http://dev.lutece.paris.fr/svn/lutece/applications/actes/tags/module-actes-fast-1.6.2</connection>
-        <developerConnection>scm:svn:https://dev.lutece.paris.fr/svn/lutece/applications/actes/tags/module-actes-fast-1.6.2</developerConnection>
-        <url>http://dev.lutece.paris.fr/viewvc/lutece/applications/actes/tags/module-actes-fast-1.6.2</url>
+        <connection>scm:svn:http://dev.lutece.paris.fr/svn/lutece/applications/actes/trunk/module-actes-fast</connection>
+        <developerConnection>scm:svn:https://dev.lutece.paris.fr/svn/lutece/applications/actes/trunk/module-actes-fast</developerConnection>
+        <url>http://dev.lutece.paris.fr/viewvc/lutece/applications/actes/trunk/module-actes-fast</url>
     </scm>
 </project>
