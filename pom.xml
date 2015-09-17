@@ -1,9 +1,9 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     
     <parent>
-        <artifactId>lutece-plugins-pom</artifactId>
-        <groupId>fr.paris.lutece.plugins</groupId>
-        <version>2.25</version>
+        <artifactId>lutece-global-pom</artifactId>
+        <groupId>fr.paris.lutece.tools</groupId>
+        <version>3.0.3</version>
     </parent>
     
     <modelVersion>4.0.0</modelVersion>
@@ -23,24 +23,24 @@
     </repositories>
     
     <dependencies>
-        
         <dependency>
             <groupId>fr.paris.lutece.plugins</groupId>
             <artifactId>plugin-actes</artifactId>
             <version>3.0.0</version>
             <type>lutece-plugin</type>
         </dependency>
-
     </dependencies>
     
     <properties>
         <componentName>actes-fast</componentName>
-		<jiraProjectName>LUTECE</jiraProjectName>
-        <jiraComponentId>10090</jiraComponentId>
+        <jiraProjectName>MODULEACTESFAST</jiraProjectName>
+        <jiraComponentId>10367</jiraComponentId>
     </properties>
-	<scm>
-        <connection>scm:svn:http://dev.lutece.paris.fr/svn/lutece/applications/actes/trunk/module-actes-fast</connection>
-        <developerConnection>scm:svn:https://dev.lutece.paris.fr/svn/lutece/applications/actes/trunk/module-actes-fast</developerConnection>
-        <url>http://dev.lutece.paris.fr/viewvc/lutece/applications/actes/trunk/module-actes-fast</url>
+    
+    <scm>
+        <connection>scm:git:https://github.com/lutece-secteur-public/actes-module-actes-fast.git</connection>
+        <developerConnection>scm:git:https://github.com/lutece-secteur-public/actes-module-actes-fast.git</developerConnection>
+        <url>https://github.com/lutece-secteur-public/actes-module-actes-fast.git</url>
     </scm>
+    
 </project>
