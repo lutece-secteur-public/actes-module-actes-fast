@@ -11,7 +11,7 @@
     <artifactId>module-actes-fast</artifactId>
     <packaging>lutece-plugin</packaging>
     <version>2.0.1-SNAPSHOT</version>
-    <name>Lutece actes FAST module</name>
+    <name>Lutece actes fast module</name>
     
     <repositories>
         <repository>

@@ -8,7 +8,7 @@
             <img src="images/fast.jpg" />
             <subsection name="Introduction">
                 <p>
-                    Ce module réalise, pour le <a href="/plugins/plugin-actes/fr/index.html" target="_blank" >plugin ACTES</a>,
+                    Ce module réalise, pour le <a href="https://github.com/lutece-secteur-public/actes-plugin-actes" target="_blank" >plugin ACTES</a>,
                     la télétransmission des actes via la plate-forme FAST de la CDC. 
                 </p> 
             </subsection>
