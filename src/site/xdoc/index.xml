@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <properties>
+        <title>Introduction</title>
+    </properties>
+    <body>
+        <section name="Descriptif du module FAST">
+            <img src="images/fast.jpg" />
+            <subsection name="Introduction">
+                <p>
+                    Ce module réalise, pour le <a href="/plugins/plugin-actes/fr/index.html" target="_blank" >plugin ACTES</a>,
+                    la télétransmission des actes via la plate-forme FAST de la CDC. 
+                </p> 
+            </subsection>
+        </section>
+    </body>
+</document>

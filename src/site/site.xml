@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Lutece">
+
+	<version />
+
+	<body>
+		<links>
+			<item name="FR" href="/index.html" />
+		</links>
+
+		<menu name="Downloads" inherit="bottom">
+			<item name="Released versions" href="../../stable_builds/plugins/module-actes-s2low/" />
+			<item name="Nightly builds" href="../../nightly_builds/plugins/module-actes-s2low/" />
+		</menu>
+
+		<menu ref="reports" />
+	</body>
+</project>
