@@ -10,7 +10,7 @@
     <groupId>fr.paris.lutece.plugins</groupId>
     <artifactId>module-actes-fast</artifactId>
     <packaging>lutece-plugin</packaging>
-    <version>2.0.1-SNAPSHOT</version>
+    <version>2.0.1</version>
     <name>Lutece actes fast module</name>
     
     <repositories>
@@ -41,6 +41,7 @@
         <connection>scm:git:https://github.com/lutece-secteur-public/actes-module-actes-fast.git</connection>
         <developerConnection>scm:git:https://github.com/lutece-secteur-public/actes-module-actes-fast.git</developerConnection>
         <url>https://github.com/lutece-secteur-public/actes-module-actes-fast.git</url>
-    </scm>
+      <tag>actes-module-actes-fast-2.0.1</tag>
+  </scm>
     
 </project>
